@@ -1,6 +1,9 @@
 # UI-UX Designs  
 This repository contains my UI/UX design projects.  
 
+# Files
+Navigate to the "Designs" folder to see the interface.
+
 ## Features  
 - Figma-based designs for website.
 - Organized design assets for separate essentials for designing.
